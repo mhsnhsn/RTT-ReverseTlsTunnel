@@ -18,7 +18,7 @@
 Easy installation
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/armanibash/RTT-ReverseTlsTunnel/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/mhsnhsn/RTT-ReverseTlsTunnel/main/install.sh)
 ```
 
 ### How to Manage مدیریت سرویس
